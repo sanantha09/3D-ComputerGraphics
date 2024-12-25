@@ -1,0 +1,4 @@
+﻿  DirectXApp.cpp
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekEight\Week8_Exercise\Week8_Exercise\DirectXApp.cpp(58,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekEight\Week8_Exercise\Week8_Exercise\DirectXApp.cpp(59,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DirectX_Base.vcxproj -> C:\Mini\Uod_Year2\Graphics I\100614897\WeekEight\Week8_Exercise\Week8_Exercise\x64\Debug\DirectX_Base.exe
