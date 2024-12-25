@@ -1,0 +1,33 @@
+﻿  CubeNode.cpp
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\CubeNode.cpp(278,47): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  DirectXApp.cpp
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\DirectXApp.cpp(108,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\DirectXApp.cpp(109,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DirectXFramework.cpp
+  Framework.cpp
+  GeometricObject.cpp
+  pch.cpp
+  SceneGraph.cpp
+  SimpleMath.cpp
+  TeapotNode.cpp
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\TeapotNode.cpp(91,42): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\TeapotNode.cpp(103,64): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\TeapotNode.cpp(121,49): warning C4267: '=': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\TeapotNode.cpp(256,47): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  TextureCubeNode.cpp
+C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\TextureCubeNode.cpp(282,48): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  WICTextureLoader.cpp
+  Generating Code...
+  DirectX_Base.vcxproj -> C:\Mini\Uod_Year2\Graphics I\100614897\WeekTen\Week_10_Exercise\x64\Debug\DirectX_Base.exe
